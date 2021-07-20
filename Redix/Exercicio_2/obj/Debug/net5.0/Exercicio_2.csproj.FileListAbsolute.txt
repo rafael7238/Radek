@@ -13,3 +13,4 @@ C:\Cursos\Radex\Redix\Exercicio_2\obj\Debug\net5.0\Exercicio_2.dll
 C:\Cursos\Radex\Redix\Exercicio_2\obj\Debug\net5.0\ref\Exercicio_2.dll
 C:\Cursos\Radex\Redix\Exercicio_2\obj\Debug\net5.0\Exercicio_2.pdb
 C:\Cursos\Radex\Redix\Exercicio_2\obj\Debug\net5.0\Exercicio_2.genruntimeconfig.cache
+C:\Cursos\Radex\Redix\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csproj.AssemblyReference.cache

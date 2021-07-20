@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redix", "Redix\Redix.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1", "Exercicio_1\Exercicio_1.csproj", "{99D05F42-B160-4DBF-B434-E9E8901F1940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2", "Exercicio_2\Exercicio_2.csproj", "{DCEC7DE2-1B70-4B82-AA9A-20E158E9B74D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_2", "Exercicio_2\Exercicio_2.csproj", "{DCEC7DE2-1B70-4B82-AA9A-20E158E9B74D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao_2_test", "Questao_2_test\Questao_2_test.csproj", "{2A0FE52D-476E-4317-B1CC-2849D1BCF0EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao_2_test", "Questao_2_test\Questao_2_test.csproj", "{2A0FE52D-476E-4317-B1CC-2849D1BCF0EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_7", "Exercicio_8\Exercicio_7.csproj", "{41BA3292-8D71-4A9F-9A6C-4C98DD2A1290}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2A0FE52D-476E-4317-B1CC-2849D1BCF0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A0FE52D-476E-4317-B1CC-2849D1BCF0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A0FE52D-476E-4317-B1CC-2849D1BCF0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BA3292-8D71-4A9F-9A6C-4C98DD2A1290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BA3292-8D71-4A9F-9A6C-4C98DD2A1290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BA3292-8D71-4A9F-9A6C-4C98DD2A1290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BA3292-8D71-4A9F-9A6C-4C98DD2A1290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,7 +21,6 @@ C:\Cursos\Radex\Redix\Redix\bin\Debug\net5.0\Redix.runtimeconfig.dev.json
 C:\Cursos\Radex\Redix\Redix\bin\Debug\net5.0\Redix.dll
 C:\Cursos\Radex\Redix\Redix\bin\Debug\net5.0\ref\Redix.dll
 C:\Cursos\Radex\Redix\Redix\bin\Debug\net5.0\Redix.pdb
-C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.csproj.AssemblyReference.cache
 C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.GeneratedMSBuildEditorConfig.editorconfig
 C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.AssemblyInfoInputs.cache
 C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.AssemblyInfo.cs
