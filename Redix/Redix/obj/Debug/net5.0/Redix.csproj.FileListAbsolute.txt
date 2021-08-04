@@ -29,3 +29,4 @@ C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.dll
 C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\ref\Redix.dll
 C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.pdb
 C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.genruntimeconfig.cache
+C:\Cursos\Radex\Redix\Redix\obj\Debug\net5.0\Redix.csproj.AssemblyReference.cache

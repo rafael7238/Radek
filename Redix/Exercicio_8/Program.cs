@@ -13,6 +13,8 @@ namespace Exercicio_7
                 qtdCaracter++;
             }
             Console.WriteLine($"String de tamanho {qtdCaracter}");
+           
+
         }
     }
 }
