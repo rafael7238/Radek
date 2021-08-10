@@ -1,0 +1,16 @@
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\Exercicio_7.exe
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\Exercicio_7.deps.json
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\Exercicio_7.runtimeconfig.json
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\Exercicio_7.runtimeconfig.dev.json
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\Exercicio_7.dll
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\ref\Exercicio_7.dll
+C:\Cursos\Radex\Redix\Exercicio_8\bin\Debug\net5.0\Exercicio_7.pdb
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.csproj.AssemblyReference.cache
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.AssemblyInfoInputs.cache
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.AssemblyInfo.cs
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.csproj.CoreCompileInputs.cache
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.dll
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\ref\Exercicio_7.dll
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.pdb
+C:\Cursos\Radex\Redix\Exercicio_8\obj\Debug\net5.0\Exercicio_7.genruntimeconfig.cache
